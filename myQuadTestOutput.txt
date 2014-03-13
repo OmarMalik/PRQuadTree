@@ -1,0 +1,172 @@
+find location 15 161
+Not found
+find location 1024 1024
+Not found
+find location 1 -1
+Not found
+find location -1 325
+Not found
+find location 1020 1031
+Not found
+rfind 46 24 62 624
+Not found
+delete location 45 26
+Not found
+tree location
+Empty
+makenull
+insert Home 242624 512 512
+find location 512 513
+Not found
+find location 0 0
+Not found
+find location 512 512
+Home 242624 (512, 512)
+rfind 0 0 512 512
+Not found
+rfind 512 512 516 585
+Home 242624 (512, 512)
+rfind 423 672 13 652
+Not found
+tree location
+Home 242624 (512, 512)
+delete location 135 541
+Not found
+delete location 512 512
+makenull
+insert Home 5 0 0
+insert hadf 4 900 770
+insert ad 3 2 850
+insert ad 4 550 400
+insert aag 5 800 500
+insert ad 5 500 500
+insert ad 5 1000 1000
+insert adga 1 300 900
+insert aga 1 800 800
+insert adga 32 200 500
+insert here 32 1023 1023
+insert test 31 1022 1022
+insert test 3213 1022 1022
+Duplicate
+find location 500 500
+ad 5 (500, 500)
+find location 13 513
+Not found
+find location 1023 1023
+here 32 (1023, 1023)
+find location 512 512
+Not found
+makenull
+tree location
+Empty
+insert here 32 1023 1023
+insert test 31 1022 1022
+tree location
+Internal (512, 512)
+....Empty
+....Empty
+....Empty
+....Internal (768, 768)
+........Empty
+........Empty
+........Empty
+........Internal (896, 896)
+............Empty
+............Empty
+............Empty
+............Internal (960, 960)
+................Empty
+................Empty
+................Empty
+................Internal (992, 992)
+....................Empty
+....................Empty
+....................Empty
+....................Internal (1008, 1008)
+........................Empty
+........................Empty
+........................Empty
+........................Internal (1016, 1016)
+............................Empty
+............................Empty
+............................Empty
+............................Internal (1020, 1020)
+................................Empty
+................................Empty
+................................Empty
+................................Internal (1022, 1022)
+....................................Empty
+....................................Empty
+....................................Empty
+....................................Internal (1023, 1023)
+........................................test 31 (1022, 1022)
+........................................Empty
+........................................Empty
+........................................here 32 (1023, 1023)
+rfind 2 51 52 513
+Not found
+rfind 400 0 6426 2466
+test 31 (1022, 1022)
+here 32 (1023, 1023)
+rfind 12 34 51 353
+Not found
+delete location 31 41
+Not found
+delete location 1022 1022
+makenull
+insert a 3 3 3
+insert b 2 2 3
+insert c 1 1 2
+insert d 1 700 3
+insert dd 2 700 3
+Duplicate
+insert cd 3 700 2
+insert bb 4 701 3
+insert dasf 1 700 4
+insert as 3 699 3
+insert bb 5 3 700
+insert asdfff 6 3 701
+insert q 555 5 750
+insert z 2 2 690
+insert aaa 9 800 800
+insert bbb 1 800 801
+insert ccc 2 801 800
+insert ddd 4 801 801
+find location 800 800
+aaa 9 (800, 800)
+find location 1 2
+c 1 (1, 2)
+find location 1 1
+Not found
+find location 801 801
+ddd 4 (801, 801)
+rfind 0 0 1000 1000
+c 1 (1, 2)
+b 2 (2, 3)
+a 3 (3, 3)
+as 3 (699, 3)
+cd 3 (700, 2)
+d 1 (700, 3)
+bb 4 (701, 3)
+dasf 1 (700, 4)
+z 2 (2, 690)
+bb 5 (3, 700)
+asdfff 6 (3, 701)
+q 555 (5, 750)
+aaa 9 (800, 800)
+ccc 2 (801, 800)
+bbb 1 (800, 801)
+ddd 4 (801, 801)
+rfind 1000 1000 1 1
+Not found
+rfind 512 512 300 400
+aaa 9 (800, 800)
+ccc 2 (801, 800)
+bbb 1 (800, 801)
+ddd 4 (801, 801)
+makenull
+insert a 1 34 2
+delete location 34 2
+insert b 4 1 1
+insert c 4 2 4
+delete location 2 4

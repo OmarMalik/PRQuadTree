@@ -1,0 +1,436 @@
+find name Balwin
+Not found
+find population 3151
+Not found
+findKth name 5
+Not found
+findKth population 4362
+Not found
+findRange name A E
+Not found
+findRange population 235 1515
+Not found
+delete name Balwin
+Not found
+delete population 78654
+Not found
+sort name
+Database Empty
+sort population
+Database Empty
+tree name
+Database Empty
+tree population
+Database Empty
+makenull
+findKth name 0
+Not found
+insert Balwin 30404 stuff
+find name Balwin
+Balwin 30404 stuff
+find population 30404
+Balwin 30404 stuff
+find name test
+Not found
+find population 3153
+Not found
+findKth name 5
+Not found
+findKth name 0
+Balwin 30404 stuff
+findKth population 4362
+Not found
+findKth population 0
+Balwin 30404 stuff
+findRange name A E
+Balwin 30404 stuff
+findRange name E G
+Not found
+findRange population 235 15150
+Not found
+findRange population 34 255
+Not found
+delete name Alex
+Not found
+delete population 78654
+Not found
+sort name
+Balwin 30404 stuff
+sort population
+Balwin 30404 stuff
+tree name
+Balwin 30404 stuff
+tree population
+Balwin 30404 stuff
+delete name Balwin
+sort name
+Database Empty
+makenull
+insert Alexandria 139966 stuff
+insert Danville 43055 stuff
+insert Lynchburg 75568 stuff
+insert Portsmouth 95535 stuff
+insert Suffolk 84585 stuff
+insert Radford 16408 stuff
+insert Williamsburg 14068 stuff
+insert Fredericksburg 24286 stuff
+insert Lynchburg 75568 stuff
+insert Norfolk 242803 stuff
+insert Baltimore 642 red
+insert Baltimore 620961 green
+insert Baltimore 23 stuff
+insert Baltimore 620961 stuff
+insert Baltimore 4662 stuff
+insert Alexandria 23 stuff
+insert Brandon 4662 yellow
+insert Jessie 4662 yellow
+insert Alex 4662 green
+insert Brandon 4662 yello
+insert Brandon 4662 blue
+insert Brandon 4662 yellow
+insert Jessie 4662 yellow
+delete name Jaxson
+Not found
+delete name Polard
+Not found
+delete population 526
+Not found
+findRange name Alex Norfolk
+Alex 4662 green
+Alexandria 139966 stuff
+Alexandria 23 stuff
+Baltimore 642 red
+Baltimore 620961 green
+Baltimore 23 stuff
+Baltimore 620961 stuff
+Baltimore 4662 stuff
+Brandon 4662 yellow
+Brandon 4662 yello
+Brandon 4662 blue
+Brandon 4662 yellow
+Danville 43055 stuff
+Fredericksburg 24286 stuff
+Jessie 4662 yellow
+Jessie 4662 yellow
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Norfolk 242803 stuff
+findRange population 23 620962
+Baltimore 23 stuff
+Alexandria 23 stuff
+Baltimore 642 red
+Baltimore 4662 stuff
+Brandon 4662 yellow
+Jessie 4662 yellow
+Alex 4662 green
+Brandon 4662 yello
+Brandon 4662 blue
+Brandon 4662 yellow
+Jessie 4662 yellow
+Williamsburg 14068 stuff
+Radford 16408 stuff
+Fredericksburg 24286 stuff
+Danville 43055 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Suffolk 84585 stuff
+Portsmouth 95535 stuff
+Alexandria 139966 stuff
+Norfolk 242803 stuff
+Baltimore 620961 green
+Baltimore 620961 stuff
+findRange name R Z
+Radford 16408 stuff
+Suffolk 84585 stuff
+Williamsburg 14068 stuff
+find name Balwin
+Not found
+delete population 4662
+find population 620961
+Baltimore 620961 green
+Baltimore 620961 stuff
+find name Baltimore
+Baltimore 642 red
+Baltimore 620961 green
+Baltimore 23 stuff
+Baltimore 620961 stuff
+findKth name 5
+Baltimore 620961 stuff
+findKth name 3154
+Not found
+findKth population 4662
+Not found
+findKth population 0
+Baltimore 23 stuff
+findRange name A E
+Alexandria 139966 stuff
+Alexandria 23 stuff
+Baltimore 642 red
+Baltimore 620961 green
+Baltimore 23 stuff
+Baltimore 620961 stuff
+Danville 43055 stuff
+findRange population 235 15150
+Baltimore 642 red
+Williamsburg 14068 stuff
+delete name Balwin
+Not found
+delete population 620961
+delete name Alexandria
+sort name
+Baltimore 642 red
+Baltimore 23 stuff
+Danville 43055 stuff
+Fredericksburg 24286 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Norfolk 242803 stuff
+Portsmouth 95535 stuff
+Radford 16408 stuff
+Suffolk 84585 stuff
+Williamsburg 14068 stuff
+sort population
+Baltimore 23 stuff
+Baltimore 642 red
+Williamsburg 14068 stuff
+Radford 16408 stuff
+Fredericksburg 24286 stuff
+Danville 43055 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Suffolk 84585 stuff
+Portsmouth 95535 stuff
+Norfolk 242803 stuff
+tree name
+    Baltimore 642 red
+        Baltimore 23 stuff
+Danville 43055 stuff
+        Fredericksburg 24286 stuff
+    Lynchburg 75568 stuff
+            Lynchburg 75568 stuff
+                Norfolk 242803 stuff
+        Portsmouth 95535 stuff
+                Radford 16408 stuff
+            Suffolk 84585 stuff
+                Williamsburg 14068 stuff
+tree population
+                    Baltimore 23 stuff
+                Baltimore 642 red
+            Williamsburg 14068 stuff
+        Radford 16408 stuff
+            Fredericksburg 24286 stuff
+    Danville 43055 stuff
+        Lynchburg 75568 stuff
+                    Lynchburg 75568 stuff
+                Suffolk 84585 stuff
+            Portsmouth 95535 stuff
+Norfolk 242803 stuff
+findKth name 4
+Lynchburg 75568 stuff
+findKth population 4
+Fredericksburg 24286 stuff
+find name Williamsburg
+Williamsburg 14068 stuff
+find population 23
+Baltimore 23 stuff
+delete name Baltimore
+tree name
+Danville 43055 stuff
+        Fredericksburg 24286 stuff
+    Lynchburg 75568 stuff
+            Lynchburg 75568 stuff
+                Norfolk 242803 stuff
+        Portsmouth 95535 stuff
+                Radford 16408 stuff
+            Suffolk 84585 stuff
+                Williamsburg 14068 stuff
+findKth name 0
+Danville 43055 stuff
+findKth population 4
+Lynchburg 75568 stuff
+sort name
+Danville 43055 stuff
+Fredericksburg 24286 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Norfolk 242803 stuff
+Portsmouth 95535 stuff
+Radford 16408 stuff
+Suffolk 84585 stuff
+Williamsburg 14068 stuff
+sort population
+Williamsburg 14068 stuff
+Radford 16408 stuff
+Fredericksburg 24286 stuff
+Danville 43055 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Suffolk 84585 stuff
+Portsmouth 95535 stuff
+Norfolk 242803 stuff
+makenull
+insert Fredericksburg 24286 stuff
+insert Alexandria 139966 stuff
+insert Danville 43055 stuff
+insert Lynchburg 75568 stuff
+insert Lynchburg 315 stuff
+insert Lynchburg 75568 stuff
+insert Portsmouth 95535 stuff
+insert Suffolk 84585 stuff
+insert Radford 16408 stuff
+insert Williamsburg 14068 stuff
+insert Lynchburg 75568 stuff
+insert Norfolk 242803 stuff
+insert Baltimore 642 stuff
+insert Baltimore 620961 stuff
+insert Baltimore 23 stuff
+insert Baltimore 620961 stuff
+insert Baltimore 4662 stuff
+insert Alexandria 23 stuff
+findKth name 0
+Alexandria 139966 stuff
+findKth name 1
+Alexandria 23 stuff
+findKth name 2
+Baltimore 642 stuff
+findKth name 3
+Baltimore 620961 stuff
+findKth name 4
+Baltimore 23 stuff
+findKth name 5
+Baltimore 620961 stuff
+findKth name 6
+Baltimore 4662 stuff
+findKth name 7
+Danville 43055 stuff
+findKth name 8
+Fredericksburg 24286 stuff
+findKth name 9
+Lynchburg 75568 stuff
+findKth name 10
+Lynchburg 315 stuff
+findKth name 11
+Lynchburg 75568 stuff
+findKth name 12
+Lynchburg 75568 stuff
+findKth name 13
+Norfolk 242803 stuff
+findKth name 14
+Portsmouth 95535 stuff
+findKth name 15
+Radford 16408 stuff
+findKth name 16
+Suffolk 84585 stuff
+findKth population 0
+Baltimore 23 stuff
+findKth population 1
+Alexandria 23 stuff
+findKth population 2
+Lynchburg 315 stuff
+findKth population 3
+Baltimore 642 stuff
+findKth population 4
+Baltimore 4662 stuff
+findKth population 5
+Williamsburg 14068 stuff
+findKth population 6
+Radford 16408 stuff
+findKth population 7
+Fredericksburg 24286 stuff
+findKth population 8
+Danville 43055 stuff
+findKth population 9
+Lynchburg 75568 stuff
+findKth population 10
+Lynchburg 75568 stuff
+findKth population 11
+Lynchburg 75568 stuff
+findKth population 12
+Suffolk 84585 stuff
+findKth population 13
+Portsmouth 95535 stuff
+findKth population 14
+Alexandria 139966 stuff
+findKth population 15
+Norfolk 242803 stuff
+findKth population 16
+Baltimore 620961 stuff
+findKth population 17
+Baltimore 620961 stuff
+findKth population 18
+Not found
+delete population 23
+delete population 620961
+delete name Alexandria
+delete name Williamsburg
+find name Lynchburg
+Lynchburg 75568 stuff
+Lynchburg 315 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+find population 75568
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+delete name Suffolk
+findRange population 30 10000
+Lynchburg 315 stuff
+Baltimore 642 stuff
+Baltimore 4662 stuff
+findRange name A Z
+Baltimore 642 stuff
+Baltimore 4662 stuff
+Danville 43055 stuff
+Fredericksburg 24286 stuff
+Lynchburg 75568 stuff
+Lynchburg 315 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Norfolk 242803 stuff
+Portsmouth 95535 stuff
+Radford 16408 stuff
+findRange population 1 10000000
+Lynchburg 315 stuff
+Baltimore 642 stuff
+Baltimore 4662 stuff
+Radford 16408 stuff
+Fredericksburg 24286 stuff
+Danville 43055 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Lynchburg 75568 stuff
+Portsmouth 95535 stuff
+Norfolk 242803 stuff
+find population 4662
+Baltimore 4662 stuff
+find name Baltimore
+Baltimore 642 stuff
+Baltimore 4662 stuff
+find name Radford
+Radford 16408 stuff
+findKth population 2
+Baltimore 4662 stuff
+findKth population 10
+Norfolk 242803 stuff
+findKth name 12
+Not found
+findKth name 7
+Lynchburg 75568 stuff
+findKth name 2
+Danville 43055 stuff
+findKth name -1
+Not found
+findKth name -10
+Not found
+makenull
+insert Brandon 4662 yellow
+insert Brandon 4662 blue
+insert Brandon 31 yellow
+insert Brandon 4662 green
+insert Brandon 53 yello
+insert Brandon 4662 blue
+insert Brandon 122 yellow
+insert Brandon 4662 black
+delete name Brandon
+sort population
+Database Empty

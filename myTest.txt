@@ -1,0 +1,182 @@
+# test operations of empty list
+find name Balwin
+find population 3151
+findKth name 5
+findKth population 4362
+findRange name A E
+findRange population 235 1515
+delete name Balwin
+delete population 78654
+sort name
+sort population
+tree name
+tree population
+makenull
+findKth name 0
+# test operations with only 1 value in the tree
+insert Balwin 30404 stuff
+find name Balwin
+find population 30404
+find name test
+find population 3153
+findKth name 5
+findKth name 0
+findKth population 4362
+findKth population 0
+findRange name A E
+findRange name E G
+findRange population 235 15150
+findRange population 34 255
+delete name Alex
+delete population 78654
+sort name
+sort population
+tree name
+tree population
+delete name Balwin
+sort name 
+# sort population
+makenull
+# input a normal amount of City data and test functions
+insert Alexandria 139966 stuff
+insert Danville 43055 stuff
+insert Lynchburg 75568 stuff
+insert Portsmouth 95535 stuff
+insert Suffolk 84585 stuff
+insert Radford 16408 stuff
+insert Williamsburg 14068 stuff
+insert Fredericksburg 24286 stuff
+insert Lynchburg 75568 stuff
+insert Norfolk 242803 stuff
+insert Baltimore 642 red
+insert Baltimore 620961 green
+insert Baltimore 23 stuff
+insert Baltimore 620961 stuff
+insert Baltimore 4662 stuff
+insert Alexandria 23 stuff
+insert Brandon 4662 yellow
+insert Jessie 4662 yellow
+insert Alex 4662 green
+insert Brandon 4662 yello
+insert Brandon 4662 blue
+insert Brandon 4662 yellow
+insert Jessie 4662 yellow
+delete name Jaxson
+delete name Polard
+delete population 526
+findRange name Alex Norfolk
+findRange population 23 620962
+findRange name R Z
+find name Balwin
+delete population 4662
+find population 620961
+find name Baltimore
+findKth name 5
+findKth name 3154
+findKth population 4662
+findKth population 0
+findRange name A E
+findRange population 235 15150
+delete name Balwin
+delete population 620961
+delete name Alexandria
+sort name
+sort population
+tree name
+tree population
+findKth name 4
+findKth population 4
+find name Williamsburg
+find population 23
+delete name Baltimore
+tree name
+findKth name 0
+findKth population 4
+sort name
+sort population
+makenull
+insert Fredericksburg 24286 stuff
+insert Alexandria 139966 stuff
+insert Danville 43055 stuff
+insert Lynchburg 75568 stuff
+insert Lynchburg 315 stuff
+insert Lynchburg 75568 stuff
+insert Portsmouth 95535 stuff
+insert Suffolk 84585 stuff
+insert Radford 16408 stuff
+insert Williamsburg 14068 stuff
+insert Lynchburg 75568 stuff
+insert Norfolk 242803 stuff
+insert Baltimore 642 stuff
+insert Baltimore 620961 stuff
+insert Baltimore 23 stuff
+insert Baltimore 620961 stuff
+insert Baltimore 4662 stuff
+insert Alexandria 23 stuff
+findKth name 0
+findKth name 1
+findKth name 2
+findKth name 3
+findKth name 4
+findKth name 5
+findKth name 6
+findKth name 7
+findKth name 8
+findKth name 9
+findKth name 10
+findKth name 11
+findKth name 12
+findKth name 13
+findKth name 14
+findKth name 15
+findKth name 16
+findKth population 0
+findKth population 1
+findKth population 2
+findKth population 3
+findKth population 4
+findKth population 5
+findKth population 6
+findKth population 7
+findKth population 8
+findKth population 9
+findKth population 10
+findKth population 11
+findKth population 12
+findKth population 13
+findKth population 14
+findKth population 15
+findKth population 16
+findKth population 17
+findKth population 18
+delete population 23
+delete population 620961
+delete name Alexandria
+delete name Williamsburg
+find name Lynchburg
+find population 75568
+delete name Suffolk
+findRange population 30 10000
+findRange name A Z
+findRange population 1 10000000
+find population 4662
+find name Baltimore
+find name Radford
+findKth population 2
+findKth population 10
+findKth name 12
+findKth name 7
+findKth name 2
+findKth name -1
+findKth name -10
+makenull
+insert Brandon 4662 yellow
+insert Brandon 4662 blue
+insert Brandon 31 yellow
+insert Brandon 4662 green
+insert Brandon 53 yello
+insert Brandon 4662 blue
+insert Brandon 122 yellow
+insert Brandon 4662 black
+delete name Brandon
+sort population

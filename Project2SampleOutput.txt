@@ -1,0 +1,34 @@
+INPUT:
+
+insert Home 5 0 0
+insert Away 10 64 64
+tree location
+delete location 64 64
+tree location
+
+
+OUTPUT:
+
+insert Home 5 0 0
+insert Away 10 64 64
+tree location
+Internal (512, 512)
+....Internal (256, 256)
+........Internal (128, 128)
+............Internal (64, 64)
+................Home 5 (0, 0)
+................Empty
+................Empty
+................Away 10 (64, 64)
+............Empty
+............Empty
+............Empty
+........Empty
+........Empty
+........Empty
+....Empty
+....Empty
+....Empty
+delete location 64 64
+tree location
+Home 5 (0, 0)

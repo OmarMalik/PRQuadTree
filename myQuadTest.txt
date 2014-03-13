@@ -1,0 +1,83 @@
+# Quad Tree tests
+# tests operations with empty quad tree
+find location 15 161
+find location 1024 1024
+find location 1 -1
+find location -1 325
+find location 1020 1031
+rfind 46 24 62 624
+delete location 45 26
+tree location
+makenull
+# test opeations with only 1 value in the tree
+insert Home 242624 512 512
+find location 512 513
+find location 0 0
+find location 512 512
+rfind 0 0 512 512
+rfind 512 512 516 585
+rfind 423 672 13 652
+tree location
+delete location 135 541
+delete location 512 512
+makenull
+# normal quad tree operations
+insert Home 5 0 0
+insert hadf 4 900 770
+insert ad 3 2 850
+insert ad 4 550 400
+insert aag 5 800 500
+insert ad 5 500 500
+insert ad 5 1000 1000
+insert adga 1 300 900
+insert aga 1 800 800
+insert adga 32 200 500
+insert here 32 1023 1023
+insert test 31 1022 1022
+insert test 3213 1022 1022
+find location 500 500
+find location 13 513
+find location 1023 1023
+find location 512 512
+makenull
+tree location
+insert here 32 1023 1023
+insert test 31 1022 1022
+tree location
+rfind 2 51 52 513
+rfind 400 0 6426 2466
+rfind 12 34 51 353
+delete location 31 41
+delete location 1022 1022
+makenull
+# final tests
+insert a 3 3 3
+insert b 2 2 3
+insert c 1 1 2
+insert d 1 700 3
+insert dd 2 700 3
+insert cd 3 700 2
+insert bb 4 701 3
+insert dasf 1 700 4
+insert as 3 699 3
+insert bb 5 3 700
+insert asdfff 6 3 701
+insert q 555 5 750
+insert z 2 2 690
+insert aaa 9 800 800
+insert bbb 1 800 801
+insert ccc 2 801 800
+insert ddd 4 801 801
+find location 800 800
+find location 1 2
+find location 1 1
+find location 801 801
+rfind 0 0 1000 1000
+rfind 1000 1000 1 1
+rfind 512 512 300 400
+makenull
+insert a 1 34 2
+delete location 34 2
+insert b 4 1 1
+insert c 4 2 4
+delete location 2 4
